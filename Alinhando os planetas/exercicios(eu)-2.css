@@ -1,0 +1,23 @@
+
+
+.container {
+    background: lightgray;
+    display: flex;
+    gap: 1rem;
+}
+
+.box1, .box2 {
+    border: 1px solid;
+    height: 95vh;
+}
+
+.box1 {
+    background: lightblue;
+    flex-basis: 25%;
+}
+
+.box2 {
+    background: lightcoral;
+    flex: 1;
+
+}

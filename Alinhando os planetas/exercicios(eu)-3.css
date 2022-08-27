@@ -1,0 +1,17 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 100px;
+    margin: 200px;
+    gap: .8rem;
+    background-color: antiquewhite;
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9 {
+    border: 1px solid;
+    height: 330px;
+    width: 330px;
+}
+
